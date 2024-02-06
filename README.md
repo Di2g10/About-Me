@@ -27,8 +27,8 @@
 - Used many other BI tools a little bit.
 
 ### Marketing Technology
-- Marketo - 8+ years experience
-- Pardot - 8+ years experience
+- Marketo - 8+ years experience and certified
+- Pardot - 8+ years experience and certified
 - Hubspot - 2 years experience
 - Salesforce marketing cloud - 1 year experience
 - Adobe Marketing Cloud - 1 year experience
