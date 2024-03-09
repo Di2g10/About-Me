@@ -1,7 +1,7 @@
 # David Irvine
 
 ## About Me
-- I am a Data scientist, Operational Researcher, and Marketing technology specialist.
+- I am a Data Scientist, Operational Researcher, and Marketing Technology Specialist.
 - I aim to use technology to enable better decision-making.
     - Through analytics and dashboarding to aid people in making decisions.
     - Modelling and optimization to identify the best solution.
